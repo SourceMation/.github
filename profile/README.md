@@ -1,8 +1,7 @@
 # SourceMation
 
-<p align="center">
-    <img width="600px" height=auto src="https://sourcemation.com/assets/logo_poziom_linia.svg" />
-</p>
+
+![SourceMation Logo](./sm-logo.svg)
 
 [SourceMation](https://sourcemation.com)  provides secure, regularly updated, and pre-configured images for
 platforms like Docker, Kubernetes, Vagrant, WSL, VMWare, GCP, AWS and more. We
