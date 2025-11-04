@@ -1,9 +1,9 @@
-# SourceMation
+# Sourcemation
 
 
-![SourceMation Logo](./sm-logo.svg)
+![Sourcemation Logo](./sm-logo.svg)
 
-[SourceMation](https://sourcemation.com)  provides secure, regularly updated, and pre-configured images for
+[Sourcemation](https://sourcemation.com)  provides secure, regularly updated, and pre-configured images for
 platforms like Docker, Kubernetes, Vagrant, WSL, VMWare, GCP, AWS and more. We
 streamline your development and deployment pipelines by offering a trusted
 source for your base images.
@@ -11,7 +11,7 @@ source for your base images.
 Explore our free image builds on [Docker
 Hub](https://hub.docker.com/u/sourcemation) and
 [Quay.io](https://quay.io/organization/sourcemation), or check out our [Helm
-Charts Registry](https://github.com/SourceMation/charts).
+Charts Registry](https://github.com/Sourcemation/charts).
 
 ## Intelligent Risk Analysis
 
@@ -23,7 +23,7 @@ and minimize your exposure to vulnerabilities.
 
 ## Your Single Source of Truth
 
-Adopt SourceMation as the single source of truth for your organization's
+Adopt Sourcemation as the single source of truth for your organization's
 container images. By doing so, you simplify your software supply chain,
 mitigate security risks, and enforce consistency across all environments.
 Empower your DevSecOps teams with a unified foundation to build, deploy, and
